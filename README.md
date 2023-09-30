@@ -5,7 +5,7 @@ This is a clone of a reknowned website of Apple Vision Pro.
 ## Description
 
 This project is mainly based on concepts of JavaScript.
-It uses librariries like GSAP, GSAP ScrollTrigger, LocomotiveJS along with Canvas HTML.
+It uses libraries like GSAP, GSAP ScrollTrigger, LocomotiveJS along with Canvas HTML.
 
 ## Getting Started
 
