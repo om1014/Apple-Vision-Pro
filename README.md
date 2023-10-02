@@ -1,6 +1,6 @@
 # Apple Vision Pro
 
-This is a clone of a reknowned website of Apple Vision Pro.
+This is a clone of a renowned website of Apple Vision Pro.
 
 ## Description
 
